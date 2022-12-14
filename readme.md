@@ -43,8 +43,7 @@ ____
 <a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSC" width="65" height="65"/></a>
 <a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring boot" width="65" height="65"/></a>
 <a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="65" height="65"/></a>
-
-
+<a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="65" height="65"/></a>
 
 </p>
 
